@@ -38,3 +38,25 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Cross-Functional Handoff Checklist
+Use this checklist when work moves between roles (e.g., design → development, development → QA, QA → release).
+
+### Design → Development Handoff
+- [ ] UX Designer has shared final design specs and annotated assets
+- [ ] Interaction patterns and edge cases documented
+- [ ] Accessibility requirements clearly noted
+- [ ] Developer and UX Designer have walked through the spec together
+
+### Development → QA Handoff
+- [ ] Acceptance criteria reviewed and confirmed complete
+- [ ] Automated test coverage meets agreed threshold
+- [ ] Known limitations or deferred issues documented
+- [ ] QA Lead has reviewed test plan and has environment access
+
+### QA → Release Handoff
+- [ ] All acceptance criteria validated and signed off by QA Lead
+- [ ] Release notes drafted by Technical Writer and reviewed
+- [ ] Customer Success / Support Liaison briefed on changes
+- [ ] Business Analyst has confirmed solution meets original requirements
+- [ ] PM has confirmed all go/no-go criteria are met
