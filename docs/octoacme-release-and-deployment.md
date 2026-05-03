@@ -23,6 +23,19 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+## Pre-Release Review Checklist
+Use this checklist to confirm all roles have completed their release responsibilities before go-live.
+
+| Role | Responsibility | Status |
+|---|---|---|
+| QA Lead / Quality Owner | All acceptance criteria validated; test report approved | ☐ |
+| UX Designer | Visual and UX acceptance confirmed against design specs | ☐ |
+| Technical Writer | Release notes and user-facing docs published or staged | ☐ |
+| Business Analyst | Requirements traceability confirmed; no outstanding scope gaps | ☐ |
+| Customer Success / Support Liaison | Support team briefed; FAQs and communication plan ready | ☐ |
+| Project Manager | Go/no-go decision recorded; risks resolved or accepted | ☐ |
+| Product Manager | Feature acceptance sign-off completed | ☐ |
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call

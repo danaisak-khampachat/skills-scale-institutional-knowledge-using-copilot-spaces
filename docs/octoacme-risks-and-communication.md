@@ -40,3 +40,13 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Risk Review Checklist
+Use at weekly syncs and milestone reviews to ensure all role perspectives are captured in the risk register.
+
+- [ ] QA Lead has reviewed defect trends and flagged quality risks
+- [ ] UX Designer has identified any unresolved usability or accessibility issues
+- [ ] Business Analyst has confirmed no requirements gaps or unresolved ambiguities
+- [ ] Technical Writer has flagged any documentation debt that could impact release readiness
+- [ ] Customer Success / Support Liaison has surfaced any customer-facing risks or support readiness concerns
+- [ ] PM has reviewed all risks, updated mitigations, and confirmed owners are engaged
